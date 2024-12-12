@@ -1,0 +1,124 @@
+{
+  "SETTINGS": "SETTINGS",
+  "language": "Language",
+  "English": "English",
+  "Thai": "ไทย",
+  "theme": "Theme",
+  "themes": {
+    "Blue": "Blue",
+    "Orange": "Orange",
+    "Green": "Green",
+    "Purple": "Purple",
+    "Red": "Red",
+    "Yellow": "Yellow",
+    "Pink": "Pink",
+    "Teal": "Teal",
+    "Light Blue": "Light Blue",
+    "Amber": "Amber"
+  },
+  "background": "Background",
+  "backgrounds": {
+    "Cat": "Cat",
+    "KidWise": "KidWise"
+  },
+  "CHATBOT": "CHATBOT",
+  "type_your_message": "Type your message...",
+  "BEGINNER": "Beginner",
+  "INTERMEDIATE": "Intermediate",
+  "ADVANCED": "Advanced",
+  "ADD_PROFILE": "Add Profile",
+  "EDIT_PROFILE": "Edit Profile",
+  "USER_DASHBOARD": "User Dashboard",
+  "PERFORMANCE_OVERVIEW": "Performance Overview",
+  "WATCH_TIME_DURATION": "Watch Time Duration",
+  "SCORES": "Pronunciation Scores",
+  "HIGHEST_SCORE": "Highest Score",
+  "RECENT_SCORE": "Recent Score",
+  "ACHIEVEMENTS": "Achievements",
+  "BADGES_AWARDS": "Badges/Awards",
+  "PROGRESS_TRACKER": "Progress Tracker",
+  "TASKS_TITLE": "TASKS",
+  "TASKS_SUBTITLE": "To do exercise",
+  "EXERCISE_1_TITLE": "Exercise 1: Pronunciation A-Z Practice",
+  "EXERCISE_1_DESCRIPTION": "Read follow contest.",
+  "EXERCISE_2_TITLE": "Exercise 2: Pronunciation Sentence Practice",
+  "EXERCISE_2_DESCRIPTION": "Type follow contest.",
+  "USER_SENTENCE_PLACEHOLDER": "User's sentence will appear here",
+  "Minigames": "Minigames",
+  "Minigame 1: Flashcard Quiz!": "Minigame 1: Flashcard Quiz!",
+  "Test your child's vocabulary with our interactive Flashcard Quiz!": "Test your child's vocabulary with our interactive Flashcard Quiz!",
+  "VIDEOS": {
+    "beginner": {
+      "1": {
+        "title": "How to pronounce A-Z",
+        "description": "Applied Phonetic theory with video for kids and learn how to pronounce each letter"
+      }
+    },
+    "intermediate": {
+      "1": {
+        "title": "Title",
+        "description": "Description"
+      }
+    },
+    "advanced": {
+      "1": {
+        "title": "Title",
+        "description": "Description"
+      }
+    }
+  },
+  "Manage Profiles": "Manage Profiles",
+  "Enter profile name": "Enter profile name",
+  "Change Avatar": "Change Avatar",
+  "Save": "Save",
+  "Cancel": "Cancel",
+  "flashcards": {
+    "questions": {
+      "What color is the sky?": "What color is the sky?",
+      "What sound does a cat make?": "What sound does a cat make?",
+      "What is the color of grass?": "What is the color of grass?",
+      "What is 1 + 1?": "What is 1 + 1?",
+      "What do you drink that comes from cows?": "What do you drink that comes from cows?",
+      "What color is a banana?": "What color is a banana?",
+      "What animal barks?": "What animal barks?",
+      "What do bees make?": "What do bees make?",
+      "What color is an apple?": "What color is an apple?",
+      "What animal lives in a pond and quacks?": "What animal lives in a pond and quacks?"
+    },
+    "options": {
+      "Blue": "Blue",
+      "Green": "Green",
+      "Red": "Red",
+      "Bark": "Bark",
+      "Meow": "Meow",
+      "Quack": "Quack",
+      "Yellow": "Yellow",
+      "Purple": "Purple",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "Juice": "Juice",
+      "Milk": "Milk",
+      "Water": "Water",
+      "Dog": "Dog",
+      "Cat": "Cat",
+      "Duck": "Duck",
+      "Honey": "Honey",
+      "Butter": "Butter",
+      "Jam": "Jam",
+      "Apple": "Apple"
+    },
+    "answers": {
+      "Blue": "Blue",
+      "Meow": "Meow",
+      "Green": "Green",
+      "2": "2",
+      "Milk": "Milk",
+      "Yellow": "Yellow",
+      "Dog": "Dog",
+      "Honey": "Honey",
+      "Red": "Red",
+      "Duck": "Duck"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "SETTINGS": "การตั้งค่า",
+  "language": "ภาษา",
+  "English": "English",
+  "Thai": "ไทย",
+  "theme": "ธีม",
+  "themes": {
+    "Blue": "ฟ้า",
+    "Orange": "ส้ม",
+    "Green": "เขียว",
+    "Purple": "ม่วง",
+    "Red": "แดง",
+    "Yellow": "เหลือง",
+    "Pink": "ชมพู",
+    "Teal": "ฟ้าอมเขียว",
+    "Light Blue": "ฟ้าอ่อน",
+    "Amber": "อำพัน"
+  },
+  "background": "พื้นหลัง",
+  "backgrounds": {
+    "Cat": "แมว",
+    "KidWise": "คิดไวซ์"
+  },
+  "CHATBOT": "แชทบอท",
+  "type_your_message": "พิมพ์ข้อความของคุณ...",
+  "BEGINNER": "ผู้เริ่มต้น",
+  "INTERMEDIATE": "ระดับกลาง",
+  "ADVANCED": "ขั้นสูง",
+  "ADD_PROFILE": "เพิ่มโปรไฟล์",
+  "EDIT_PROFILE": "แก้ไขโปรไฟล์",
+  "USER_DASHBOARD": "แดชบอร์ดผู้ใช้",
+  "PERFORMANCE_OVERVIEW": "ภาพรวมการทำงาน",
+  "WATCH_TIME_DURATION": "ระยะเวลาการรับชม",
+  "SCORES": "คะแนนการออกเสียง",
+  "HIGHEST_SCORE": "คะแนนสูงสุด",
+  "RECENT_SCORE": "คะแนนล่าสุด",
+  "ACHIEVEMENTS": "ความสำเร็จ",
+  "BADGES_AWARDS": "ตราสัญลักษณ์/รางวัล",
+  "PROGRESS_TRACKER": "ตัวติดตามความก้าวหน้า",
+  "TASKS_TITLE": "แบบฝึกหัด",
+  "TASKS_SUBTITLE": "แบบฝึกหัดที่ต้องทำ",
+  "EXERCISE_1_TITLE": "แบบฝึกหัด 1: ฝึกการออกเสียง A ถึง Z",
+  "EXERCISE_1_DESCRIPTION": "ฝึกการพูดอ่านออกเสียงพยัญชนะ A ถึง Z",
+  "EXERCISE_2_TITLE": "แบบฝึกหัด 2: ฝึกการพูดประโยคสนทนา",
+  "EXERCISE_2_DESCRIPTION": "ฝึกการพูดคุยแบบบทสนทนา",
+  "USER_SENTENCE_PLACEHOLDER": "ประโยคของผู้ใช้จะปรากฏที่นี่",
+  "How to pronounce A-Z": "ฝึกการพูดอ่านออกเสียงพยัญชนะ A ถึง Z",
+  "Minigames": "มินิเกม",
+  "Minigame 1: Flashcard Quiz!": "มินิเกม 1: เกมทายคำศัพท์ด้วยแฟลชการ์ด!",
+  "Test your child's vocabulary with our interactive Flashcard Quiz!": "ทดสอบคำศัพท์ของเด็กๆ ด้วยเกมทายคำศัพท์ที่สนุกและน่าสนใจของเรา!",
+  "VIDEOS": {
+    "beginner": {
+      "1": {
+        "title": "ฝึกการอ่านออกเสียง A ถึง Z",
+        "description": "ทฤษฎีสัทศาสตร์ประยุกต์ด้วยวิดีโอสำหรับเด็กและเรียนรู้วิธีการออกเสียงแต่ละตัวอักษร"
+      }
+    },
+    "intermediate": {
+      "1": {
+        "title": "ชื่อเรื่อง",
+        "description": "คำอธิบาย"
+      }
+    },
+    "advanced": {
+      "1": {
+        "title": "ชื่อเรื่อง",
+        "description": "คำอธิบาย"
+      }
+    }
+  },
+  "Manage Profiles": "ปรับแต่งโปรไฟล์",
+  "Enter profile name": "ใส่ชื่อโปรไฟล์",
+  "Change Avatar": "เปลี่ยนรูปโปรไฟล์",
+  "Save": "บันทึก",
+  "Cancel": "ยกเลิก",
+  "flashcards": {
+    "questions": {
+      "What color is the sky?": "ท้องฟ้าสีอะไร?",
+      "What sound does a cat make?": "แมวทำเสียงอะไร?",
+      "What is the color of grass?": "หญ้าสีอะไร?",
+      "What is 1 + 1?": "1 + 1 เท่ากับเท่าไหร่?",
+      "What do you drink that comes from cows?": "คุณดื่มอะไรที่มาจากวัว?",
+      "What color is a banana?": "กล้วยสีอะไร?",
+      "What animal barks?": "สัตว์อะไรเห่า?",
+      "What do bees make?": "ผึ้งทำอะไร?",
+      "What color is an apple?": "แอปเปิ้ลสีอะไร?",
+      "What animal lives in a pond and quacks?": "สัตว์อะไรอาศัยอยู่ในบ่อและทำเสียงแอ่ก?"
+    },
+    "options": {
+      "Blue": "ฟ้า",
+      "Green": "เขียว",
+      "Red": "แดง",
+      "Bark": "เห่า",
+      "Meow": "เมี้ยว",
+      "Quack": "แอ่ก",
+      "Yellow": "เหลือง",
+      "Purple": "ม่วง",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "Juice": "น้ำผลไม้",
+      "Milk": "นม",
+      "Water": "น้ำ",
+      "Dog": "สุนัข",
+      "Cat": "แมว",
+      "Duck": "เป็ด",
+      "Honey": "น้ำผึ้ง",
+      "Butter": "เนย",
+      "Jam": "แยม",
+      "Apple": "แอปเปิ้ล"
+    },
+    "answers": {
+      "Blue": "ฟ้า",
+      "Meow": "เมี้ยว",
+      "Green": "เขียว",
+      "2": "2",
+      "Milk": "นม",
+      "Yellow": "เหลือง",
+      "Dog": "สุนัข",
+      "Honey": "น้ำผึ้ง",
+      "Red": "แดง",
+      "Duck": "เป็ด"
+    }
+  }
+}
