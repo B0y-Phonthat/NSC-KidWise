@@ -1,0 +1,82 @@
+version: "3.1"
+
+intents:
+- greet
+- ask_name
+- translate_th_to_en_cat
+- translate_en_to_th_cat
+- translate_th_to_en_dog
+- translate_en_to_th_dog
+- translate_th_to_en_house
+- translate_en_to_th_house
+- translate_th_to_en_car
+- translate_en_to_th_car
+- translate_th_to_en_school
+- translate_en_to_th_school
+- translate_th_to_en_water
+- translate_en_to_th_water
+- translate_th_to_en_food
+- translate_en_to_th_food
+- translate_th_to_en_book
+- translate_en_to_th_book
+
+responses:
+  utter_greet:
+  - text: "สวัสดี! ฉันจะช่วยคุณได้อย่างไรวันนี้?"
+  - text: "Hello! How can I help you today?"
+
+  utter_ask_name:
+  - text: "ฉันชื่อราซา คุณชื่ออะไร?"
+  - text: "My name is Rasa. What's your name?"
+
+  utter_translate_th_to_en_cat:
+  - text: "คำแปลภาษาอังกฤษของ แมว คือ cat."
+  
+  utter_translate_en_to_th_cat:
+  - text: "คำแปลภาษาไทยของ cat คือ แมว."
+
+  utter_translate_th_to_en_dog:
+  - text: "คำแปลภาษาอังกฤษของ สุนัข คือ dog."
+  
+  utter_translate_en_to_th_dog:
+  - text: "คำแปลภาษาไทยของ dog คือ สุนัข."
+
+  utter_translate_th_to_en_house:
+  - text: "คำแปลภาษาอังกฤษของ บ้าน คือ house."
+  
+  utter_translate_en_to_th_house:
+  - text: "คำแปลภาษาไทยของ house คือ บ้าน."
+
+  utter_translate_th_to_en_car:
+  - text: "คำแปลภาษาอังกฤษของ รถ คือ car."
+  
+  utter_translate_en_to_th_car:
+  - text: "คำแปลภาษาไทยของ car คือ รถ."
+
+  utter_translate_th_to_en_school:
+  - text: "คำแปลภาษาอังกฤษของ โรงเรียน คือ school."
+  
+  utter_translate_en_to_th_school:
+  - text: "คำแปลภาษาไทยของ school คือ โรงเรียน."
+
+  utter_translate_th_to_en_water:
+  - text: "คำแปลภาษาอังกฤษของ น้ำ คือ water."
+  
+  utter_translate_en_to_th_water:
+  - text: "คำแปลภาษาไทยของ water คือ น้ำ."
+
+  utter_translate_th_to_en_food:
+  - text: "คำแปลภาษาอังกฤษของ อาหาร คือ food."
+  
+  utter_translate_en_to_th_food:
+  - text: "คำแปลภาษาไทยของ food คือ อาหาร."
+
+  utter_translate_th_to_en_book:
+  - text: "คำแปลภาษาอังกฤษของ หนังสือ คือ book."
+  
+  utter_translate_en_to_th_book:
+  - text: "คำแปลภาษาไทยของ book คือ หนังสือ."
+  
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

@@ -1,0 +1,108 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey there
+    - hi there
+    - good morning
+    - good afternoon
+    - good evening
+    - สวัสดีตอนเช้า
+    - สวัสดีตอนบ่าย
+    - สวัสดีตอนเย็น
+    - หวัดดีจ้า
+    - ทักทาย
+
+- intent: ask_name
+  examples: |
+    - May I know your name?
+    - Can you tell me your name?
+    - What's your name please?
+    - คุณชื่อว่าอะไร
+    - ชื่ออะไรนะ
+    - คุณมีชื่อไหม
+    - คุณชื่ออะไรคะ
+    - บอกชื่อของคุณได้ไหม
+    - ฉันขอรู้ชื่อคุณได้ไหม
+    - คุณเรียกว่าอะไร
+
+- intent: translate_th_to_en_cat
+  examples: |
+    - แปลคำว่า แมว เป็นภาษาอังกฤษ
+    - Translate the word แมว to English
+
+- intent: translate_en_to_th_cat
+  examples: |
+    - Translate the word cat to Thai
+    - What is the Thai translation for cat?
+
+- intent: translate_th_to_en_dog
+  examples: |
+    - แปลคำว่า สุนัข เป็นภาษาอังกฤษ
+    - Translate the word สุนัข to English
+
+- intent: translate_en_to_th_dog
+  examples: |
+    - Translate the word dog to Thai
+    - What is the Thai translation for dog?
+
+- intent: translate_th_to_en_house
+  examples: |
+    - แปลคำว่า บ้าน เป็นภาษาอังกฤษ
+    - Translate the word บ้าน to English
+
+- intent: translate_en_to_th_house
+  examples: |
+    - Translate the word house to Thai
+    - What is the Thai translation for house?
+
+- intent: translate_th_to_en_car
+  examples: |
+    - แปลคำว่า รถ เป็นภาษาอังกฤษ
+    - Translate the word รถ to English
+
+- intent: translate_en_to_th_car
+  examples: |
+    - Translate the word car to Thai
+    - What is the Thai translation for car?
+
+- intent: translate_th_to_en_school
+  examples: |
+    - แปลคำว่า โรงเรียน เป็นภาษาอังกฤษ
+    - Translate the word โรงเรียน to English
+
+- intent: translate_en_to_th_school
+  examples: |
+    - Translate the word school to Thai
+    - What is the Thai translation for school?
+
+- intent: translate_th_to_en_water
+  examples: |
+    - แปลคำว่า น้ำ เป็นภาษาอังกฤษ
+    - Translate the word น้ำ to English
+
+- intent: translate_en_to_th_water
+  examples: |
+    - Translate the word water to Thai
+    - What is the Thai translation for water?
+
+- intent: translate_th_to_en_food
+  examples: |
+    - แปลคำว่า อาหาร เป็นภาษาอังกฤษ
+    - Translate the word อาหาร to English
+
+- intent: translate_en_to_th_food
+  examples: |
+    - Translate the word food to Thai
+    - What is the Thai translation for food?
+
+- intent: translate_th_to_en_book
+  examples: |
+    - แปลคำว่า หนังสือ เป็นภาษาอังกฤษ
+    - Translate the word หนังสือ to English
+
+- intent: translate_en_to_th_book
+  examples: |
+    - Translate the word book to Thai
+    - What is the Thai translation for book?

@@ -1,0 +1,5 @@
+rasa
+spacy
+# torch
+# transformers 
+sentencepiece

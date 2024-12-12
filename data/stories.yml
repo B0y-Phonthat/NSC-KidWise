@@ -1,0 +1,92 @@
+version: "3.1"
+
+stories:
+- story: greet path
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- story: ask name path
+  steps:
+  - intent: ask_name
+  - action: utter_ask_name
+
+- story: translate Thai to English (cat)
+  steps:
+  - intent: translate_th_to_en_cat
+  - action: utter_translate_th_to_en_cat
+
+- story: translate English to Thai (cat)
+  steps:
+  - intent: translate_en_to_th_cat
+  - action: utter_translate_en_to_th_cat
+
+- story: translate Thai to English (dog)
+  steps:
+  - intent: translate_th_to_en_dog
+  - action: utter_translate_th_to_en_dog
+
+- story: translate English to Thai (dog)
+  steps:
+  - intent: translate_en_to_th_dog
+  - action: utter_translate_en_to_th_dog
+
+- story: translate Thai to English (house)
+  steps:
+  - intent: translate_th_to_en_house
+  - action: utter_translate_th_to_en_house
+
+- story: translate English to Thai (house)
+  steps:
+  - intent: translate_en_to_th_house
+  - action: utter_translate_en_to_th_house
+
+- story: translate Thai to English (car)
+  steps:
+  - intent: translate_th_to_en_car
+  - action: utter_translate_th_to_en_car
+
+- story: translate English to Thai (car)
+  steps:
+  - intent: translate_en_to_th_car
+  - action: utter_translate_en_to_th_car
+
+- story: translate Thai to English (school)
+  steps:
+  - intent: translate_th_to_en_school
+  - action: utter_translate_th_to_en_school
+
+- story: translate English to Thai (school)
+  steps:
+  - intent: translate_en_to_th_school
+  - action: utter_translate_en_to_th_school
+
+- story: translate Thai to English (water)
+  steps:
+  - intent: translate_th_to_en_water
+  - action: utter_translate_th_to_en_water
+
+- story: translate English to Thai (water)
+  steps:
+  - intent: translate_en_to_th_water
+  - action: utter_translate_en_to_th_water
+
+- story: translate Thai to English (food)
+  steps:
+  - intent: translate_th_to_en_food
+  - action: utter_translate_th_to_en_food
+
+- story: translate English to Thai (food)
+  steps:
+  - intent: translate_en_to_th_food
+  - action: utter_translate_en_to_th_food
+
+- story: translate Thai to English (book)
+  steps:
+  - intent: translate_th_to_en_book
+  - action: utter_translate_th_to_en_book
+
+- story: translate English to Thai (book)
+  steps:
+  - intent: translate_en_to_th_book
+  - action: utter_translate_en_to_th_book

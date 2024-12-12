@@ -1,0 +1,9 @@
+services:
+  rasa:
+    build: .
+    volumes:
+      - ./:/rasa
+    ports:
+      - "5005:5005"
+    command: >
+      rasa run --enable-api --cors "*" --model models
